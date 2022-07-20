@@ -1,0 +1,21 @@
+body{
+    /* background-image: url(images/WhatsApp\ Image\ 2022-07-20\ at\ 11.34.03\ PM.jpeg); */
+    background-repeat: no-repeat;
+    background-size: 900px 550px;
+}
+
+ul{
+    
+    list-style-type: none;
+    margin-left:0px;
+    padding-left: 0px;
+    color: antiquewhite;
+}
+.container{
+    background: #8998DC;
+    background: -webkit-radial-gradient(center, #8998DC, #140847);
+    background: -moz-radial-gradient(center, #8998DC, #140847);
+    background: radial-gradient(ellipse at center, #8998DC, #140847);
+
+height: 350px;
+}
